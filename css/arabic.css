@@ -1,0 +1,46 @@
+.dir_rTl{
+    direction: rtl;
+}
+
+.text-al-rTL{
+    text-align: right;
+}
+.text-jutfy-r{
+    text-align: justify;
+}
+
+.title-page{
+    color: aliceblue;
+    font-size: 30px;
+}
+.title-page-s{
+    color: var(--primary-color);
+    font-size: 30px;
+}
+.t-sig{
+    color: var(--primary-color);
+}
+
+.size-pic{
+    max-width: 80%;
+}
+
+.custom-btn4{
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+
+.custom-btn4:hover{
+    background-color: black;
+    color: var(--white-color);
+    transition: 5.5s ease;
+}
+
+.custom-flout{
+    float: right;
+}
+
+.coo{
+    background-color: aqua;
+}
+
